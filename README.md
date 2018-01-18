@@ -1,7 +1,7 @@
 # Github Little Demo
 > ABSTRACTION IS THE ART OF CODING
 
-A small project with a deeper experimentation in `Dagger 2`, `MVP`, `RxJava` and `RxAndroid`, implementing the clean way i am seeing now architecting. Inspired by the great [Dahaka](URL) example. 
+A small project with a deeper experimentation in `Dagger 2`, `MVP`, `RxJava` and `RxAndroid`, implementing the clean way i am seeing now in architecting. Inspired by the great [Dahaka](URL) example. 
 
 ![Project Structure](https://raw.githubusercontent.com/HedyHidouRy/GithubProfile/master/images/Screen%20Shot%202018-01-18%20at%2021.17.11.png)
 ![](https://github.com/HedyHidouRy/GithubProfile/blob/master/images/Screen%20Shot%202018-01-18%20at%2021.17.11.png)
