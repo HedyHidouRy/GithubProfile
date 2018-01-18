@@ -1,0 +1,4 @@
+
+Usquid:S1068"9Remove this unused "userManagerRepository" private field.(é÷‰Ó8õçÜı,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦Îç8ñ¨…ı,
+€squid:UselessImportCheck"RRemove this unused import 'com.hedyhidoury.githubprofile.data.local.daos.UserDao'.(îåø¦ıÿÿÿÿ8õçÜı,

@@ -1,0 +1,5 @@
+
+xsquid:S1450"WRemove the "listener" field and declare it as a local variable in the relevant methods.(şî¢Şıÿÿÿÿ8ÎÍ¬Ë,
+Msquid:S1068",Remove this unused "listener" private field.(şî¢Şıÿÿÿÿ8ÎÍ¬Ë,
+Msquid:S1612",Replace this lambda with a method reference.(ÁÎ§íüÿÿÿÿ8ÎÍ¬Ë,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¿¿¦æÿÿÿÿÿ8ÎÍ¬Ë,

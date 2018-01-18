@@ -1,0 +1,11 @@
+
+_squid:S3398">Move this method into the anonymous class declared at line 49.(ËÏº¡ûÿÿÿÿ8Ù‡Éõ,
+Csquid:S1185"(Remove this method to simply inherit it.(¥Ë©8Ò„õ,
+Ssquid:S1068"2Remove this unused "HOME_CONTAINER" private field.(à¸ãäùÿÿÿÿ8‹ú‹õ,
+Wsquid:S1068"6Remove this unused "navigationListener" private field.(«Ê§÷şÿÿÿÿ8Ù‡Éõ,
+Usquid:S3516"9Refactor this method to not always return the same value.(·¿°¬8Ù‡Éõ,
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¦¦¢†8åçÏõ,
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¦¦¢†8åçÏõ,
+^squid:UselessImportCheck"0Remove this unused import 'butterknife.OnClick'.(ÔÌÓ¿ÿÿÿÿÿ8¨ù¶õ,
+Nsquid:S1481"-Remove this unused "fragment" local variable.(ŸÇ÷ºùÿÿÿÿ8®¨Ïõ,
+Dsquid:S1604"(Make this anonymous inner class a lambda(êæ¥©8Ù‡Éõ,
